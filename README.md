@@ -1,0 +1,18 @@
+# Plotting with Rasterio
+
+Author: Arjan Geers (ajgeers@gmail.com)
+
+Plotting RGB images of Landsat-8 and Sentinel-2 scenes using [rasterio](https://mapbox.github.io/rasterio/topics/plotting.html) and writing as rendered GeoTIFF.
+
+
+## Python environment
+
+```sh
+conda env create -n rasterio-plotting -f environment.yml
+source activate rasterio-plotting
+```
+
+
+## License
+
+MIT
