@@ -9,7 +9,7 @@ Plotting RGB images of Landsat-8 and Sentinel-2 scenes using [rasterio](https://
 
 ```sh
 conda env create -n rasterio-plotting -f environment.yml
-source activate rasterio-plotting
+conda activate rasterio-plotting
 ```
 
 
